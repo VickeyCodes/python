@@ -11,9 +11,9 @@ x2="is "
 x3="awesome"
 print(x1 + x2 + x3)
 
-x6 = "I"
+x6 = "Me"
 
 def myfunc():
-  print("You Know " + x6)
+  print("You see " + x6)
 
 myfunc()
