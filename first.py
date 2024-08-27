@@ -17,3 +17,6 @@ def myfunc():
   print("You see " + x6)
 
 myfunc()
+
+name=input("Enter Your Name")
+print(name)
