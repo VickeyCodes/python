@@ -19,3 +19,6 @@ z=round(x/y,2)
 print(f"{z:,}")
 
 #print(float(input("What's the first letter : "))+  float(input("What's the second letter : ")))
+
+w="waqas"
+print(w)
