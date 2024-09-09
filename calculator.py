@@ -25,3 +25,6 @@ print(w)
 
 q="waqas"
 print(q)
+
+g="asad"
+print(g)
