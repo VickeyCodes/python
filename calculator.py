@@ -22,3 +22,6 @@ print(f"{z:,}")
 
 w="waqas"
 print(w)
+
+q="waqas"
+print(q)
