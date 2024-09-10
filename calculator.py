@@ -29,7 +29,9 @@ print(q)
 g="asad"
 print(g)
 
+#checking for space
 x = input("What's the first letter : ")
 y = input("What's the second letter : ")
-z = (x) +(y)
+z = (x) + ( y)
 print(z)
+
